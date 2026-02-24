@@ -16,6 +16,6 @@ CLASS zcl_first_cl IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-   out->write( 'ABAP Class' ).
+   out->write( 'ABAP Class in ADT' ).
   ENDMETHOD.
 ENDCLASS.
